@@ -69,7 +69,7 @@ I'm a passionate Front-End Developer currently pursuing my Bachelor's in Artific
 ---
 
 ### ⛅ Weather Forecast Website
-![Weather Forecast](https://img.freepik.com/free-vector/flat-weather-forecast-illustration_23-2148934139.jpg)
+![Weather Forecast](https://raw.githubusercontent.com/alexkowsik/react-weather-app/master/src/images/screenshot.png)
 
 **Tech Used:** HTML • CSS • JavaScript • OpenWeatherMap API  
 **Features:** Real-time weather • Glassmorphism design • Dynamic backgrounds • Responsive layout • Hover effects  
