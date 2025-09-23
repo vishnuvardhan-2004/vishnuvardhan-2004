@@ -48,8 +48,8 @@ Here are a few of my favorite / recent projects:
 
 ## 🤝 Let’s Connect
 
-- LinkedIn: **[[Your LinkedIn Name & URL](https://www.linkedin.com/in/vishnu-vardhan-gangavarapu/)]**
-- Portfolio: **[[URL if you have one](https://vishnuvardhan-2004.github.io/Portfolio/)]**
+- LinkedIn: **[(https://www.linkedin.com/in/vishnu-vardhan-gangavarapu/)]**
+- Portfolio: **[(https://vishnuvardhan-2004.github.io/Portfolio/)]**
 
 ---
 
