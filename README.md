@@ -1,4 +1,4 @@
-<img width="1022" height="479" alt="Screenshot 2025-09-23 183101" src="https://github.com/user-attachments/assets/5fa6a36d-2922-4275-ae7b-f63cbc5be5c0" /># 👋 Hello, I'm Vishnu Vardhan Gangavarapu
+# 👋 Hello, I'm Vishnu Vardhan Gangavarapu
 **Front-End Developer|Full Stack Developer | Creative Coder**
 
 <div align="center">
