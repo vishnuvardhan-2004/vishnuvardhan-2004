@@ -2,31 +2,36 @@
 **Front-End Developer | AI Enthusiast | Creative Coder**
 
 <div align="center">
+
 ![Followers](https://img.shields.io/github/followers/vishnuvardhan-2004?label=Follow&style=for-the-badge&color=blue)
 ![Stars](https://img.shields.io/github/stars/vishnuvardhan-2004?style=for-the-badge&color=gold)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-green?style=for-the-badge)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-blue?style=for-the-badge)
+
 </div>
 
 ---
 
 ## 🎯 About Me
 <div align="center">
+
 ✨ "Coding is not just logic — it's creativity with structure." ✨
+
 </div>
 
-I'm a passionate Front-End Developer currently pursuing my Bachelor's in Artificial Intelligence. I have a strong foundation in web technologies and a keen eye for creating engaging user experiences. I enjoy transforming ideas into interactive, responsive, and visually appealing web applications.
+I'm a passionate Front-End Developer currently pursuing my Bachelor's in Artificial Intelligence. I love building interactive and responsive web apps that tell a story.  
 
-- 🔭 Currently enhancing my portfolio with new projects
-- 🌱 Learning Full Stack Java Development
-- 💼 Open to internships and entry-level opportunities in front-end development
-- 💬 Interested in Open Source, Front-End Development, and AI applications
-- 📫 Reach me at: [vishnuvardhangangavarapu@gmail.com](mailto:vishnuvardhangangavarapu@gmail.com)
-- ⚡ Fun fact: I love creating websites that not only function well but also tell a visual story
+- 🔭 Currently enhancing my portfolio with new projects  
+- 🌱 Learning Full Stack Java Development  
+- 💼 Open to internships and entry-level opportunities  
+- 💬 Interested in Open Source, Front-End Development, and AI applications  
+- 📫 Reach me at: [vishnuvardhangangavarapu@gmail.com](mailto:vishnuvardhangangavarapu@gmail.com)  
+- ⚡ Fun fact: I love creating websites that not only function well but also look beautiful  
 
 ---
 
 ## 🛠 Technical Skills
+
 <div align="center">
 
 **💻 Programming Languages**  
@@ -38,7 +43,7 @@ I'm a passionate Front-End Developer currently pursuing my Bachelor's in Artific
 **🎨 Frontend Development**  
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-Expert-green?style=for-the-badge)
 ![UI/UX Focused](https://img.shields.io/badge/UI/UX-Focused-blue?style=for-the-badge)
-![Animations](https://img.shields.io/badge/Animations-CSS/JS-yellow?style=for-the-badge)
+![Animations](https://img.shields.io/badge/Animations-GIF/JS-yellow?style=for-the-badge)
 
 **🔧 Tools & Platforms**  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -53,26 +58,22 @@ I'm a passionate Front-End Developer currently pursuing my Bachelor's in Artific
 ---
 
 ## 🚀 Featured Projects
+
 <div align="center">
 
 ### 🌟 Portfolio Website
-![HTML](https://img.shields.io/badge/HTML-100%25-orange?style=flat)
-![CSS](https://img.shields.io/badge/CSS-100%25-blue?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-100%25-yellow?style=flat)
+![Portfolio GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
-A responsive personal portfolio showcasing my skills, projects, and certifications with smooth animations and interactive elements.  
-
+**Tech Used:** HTML • CSS • JavaScript  
 **Features:** Smooth scrolling • Animated transitions • Fixed navigation • Dynamic icons • Responsive design
 
 ---
 
 ### ⛅ Weather Forecast Website
-![API Integration](https://img.shields.io/badge/API_Integration-OpenWeatherMap-green?style=flat)
-![Design](https://img.shields.io/badge/Design-Glassmorphism-blue?style=flat)
+![Weather GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
-A visually engaging weather application with real-time data, dynamic backgrounds, and intuitive UI.  
-
-**Features:** OpenWeatherMap API • Glassmorphism design • Dynamic backgrounds • Responsive layout • Hover effects
+**Tech Used:** HTML • CSS • JavaScript • OpenWeatherMap API  
+**Features:** Real-time weather • Glassmorphism design • Dynamic backgrounds • Responsive layout • Hover effects
 
 </div>
 
@@ -92,21 +93,27 @@ CGPA: 7.51 • Dubagunta, Nellore(Dist)
 
 ## 📊 GitHub Stats
 <div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnuvardhan-2004&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuvardhan-2004&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnuvardhan-2004&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuvardhan-2004&layout=compact&theme=radical)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=vishnuvardhan-2004&theme=radical)
+
 </div>
 
 ---
 
 ## 🌟 Let's Connect!
 <div align="center">
-![Email](https://img.shields.io/badge/Email-vishnuvardhangangavarapu@gmail.com-red?style=for-the-badge&logo=gmail)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishnu%20Vardhan%20Gangavarapu-blue?style=for-the-badge&logo=linkedin)
-![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-green?style=for-the-badge)
+
+![Email](https://img.shields.io/badge/Email-vishnuvardhangangavarapu@gmail.com-red?style=for-the-badge&logo=gmail)  
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishnu%20Vardhan%20Gangavarapu-blue?style=for-the-badge&logo=linkedin)  
+![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-green?style=for-the-badge)  
 ![GitHub](https://img.shields.io/badge/GitHub-vishnuvardhan--2004-black?style=for-the-badge&logo=github)
+
 </div>
 
 <div align="center">
+
 ⚡ "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." – Patrick McKenzie
+
 </div>
