@@ -69,7 +69,7 @@ I'm a passionate Front-End Developer currently pursuing my Bachelor's in Artific
 ---
 
 ### ⛅ Weather Forecast Website
-![Weather GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![Weather Project Screenshot](https://vishnuvardhan-2004.github.io/Portfolio/weather-screenshot.png)
 
 **Tech Used:** HTML • CSS • JavaScript • OpenWeatherMap API  
 **Features:** Real-time weather • Glassmorphism design • Dynamic backgrounds • Responsive layout • Hover effects  
