@@ -107,7 +107,7 @@ CGPA: 7.51 • Dubagunta, Nellore(Dist)
 
 [![Email](https://img.shields.io/badge/Email-vishnuvardhangangavarapu@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:vishnuvardhangangavarapu@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishnu%20Vardhan%20Gangavarapu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishnu-vardhan-gangavarapu/)  
-[![Portfolio](https://vishnuvardhan-2004.github.io/Portfolio/)]  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-green?style=for-the-badge)](https://vishnuvardhan-2004.github.io/Portfolio/)   
 [![GitHub](https://img.shields.io/badge/GitHub-vishnuvardhan--2004-black?style=for-the-badge&logo=github)](https://github.com/vishnuvardhan-2004)
 
 </div>
