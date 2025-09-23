@@ -65,15 +65,17 @@ I'm a passionate Front-End Developer currently pursuing my Bachelor's in Artific
 ![Portfolio GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 **Tech Used:** HTML • CSS • JavaScript  
-**Features:** Smooth scrolling • Animated transitions • Fixed navigation • Dynamic icons • Responsive design
+**Features:** Smooth scrolling • Animated transitions • Fixed navigation • Dynamic icons • Responsive design  
+**Link:** [Visit Portfolio](https://vishnuvardhan-2004.github.io/Portfolio/)
 
 ---
 
 ### ⛅ Weather Forecast Website
-![Weather GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Weather GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
 **Tech Used:** HTML • CSS • JavaScript • OpenWeatherMap API  
-**Features:** Real-time weather • Glassmorphism design • Dynamic backgrounds • Responsive layout • Hover effects
+**Features:** Real-time weather • Glassmorphism design • Dynamic backgrounds • Responsive layout • Hover effects  
+**Link:** [View Project](https://vishnuvardhan-2004.github.io/Portfolio/)
 
 </div>
 
@@ -105,10 +107,10 @@ CGPA: 7.51 • Dubagunta, Nellore(Dist)
 ## 🌟 Let's Connect!
 <div align="center">
 
-![Email](https://img.shields.io/badge/Email-vishnuvardhangangavarapu@gmail.com-red?style=for-the-badge&logo=gmail)  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishnu%20Vardhan%20Gangavarapu-blue?style=for-the-badge&logo=linkedin)  
-![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-green?style=for-the-badge)  
-![GitHub](https://img.shields.io/badge/GitHub-vishnuvardhan--2004-black?style=for-the-badge&logo=github)
+[![Email](https://img.shields.io/badge/Email-vishnuvardhangangavarapu@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:vishnuvardhangangavarapu@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishnu%20Vardhan%20Gangavarapu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishnu-vardhan-gangavarapu/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-green?style=for-the-badge)](https://vishnuvardhan-2004.github.io/Portfolio/)  
+[![GitHub](https://img.shields.io/badge/GitHub-vishnuvardhan--2004-black?style=for-the-badge&logo=github)](https://github.com/vishnuvardhan-2004)
 
 </div>
 
