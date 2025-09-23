@@ -8,9 +8,9 @@
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently working on **[Your Current Project / Role]**
-- 🌱 I’m learning **[Technologies / Languages you are improving]**
-- 💬 I’m interested in Open Source, Web / Mobile Development / AI / etc.
-- 📫 How to reach me: **your.email@example.com**
+- 🌱 I’m learning **[Full Stack Java]**
+- 💬 I’m interested in Open Source, Front End Development / Full Stack Development/ etc.
+- 📫 How to reach me: **vishnuvardhangangavarapu@gmail.com**
 - ⚡ Fun fact: **[Something interesting about you]**
 
 ---
@@ -19,11 +19,11 @@
 
 | Area | Technologies / Tools |
 |---|---|
-| **Languages** | e.g. Python · JavaScript · C++ · Java |
-| **Frontend** | e.g. React · HTML · CSS · Vue.js |
+| **Languages** | e.g. Java |
+| **Frontend** | e.g. React · HTML · CSS · JavaScript |
 | **Backend / APIs** | Node.js · Express · Django / Flask / etc. |
-| **Database** | MySQL · PostgreSQL · MongoDB · etc. |
-| **Others** | Git · Docker · CI/CD · Cloud (AWS / GCP / Azure) |
+| **Database** | MySQL etc. |
+| **Others** | Git |
 
 ---
 
@@ -48,8 +48,8 @@ Here are a few of my favorite / recent projects:
 
 ## 🤝 Let’s Connect
 
-- LinkedIn: **[(https://www.linkedin.com/in/vishnu-vardhan-gangavarapu/)]**
-- Portfolio: **[(https://vishnuvardhan-2004.github.io/Portfolio/)]**
+- LinkedIn: **[[My Linkedin Profile](https://www.linkedin.com/in/vishnu-vardhan-gangavarapu/)]**
+- Portfolio: **[[My Portfolio](https://vishnuvardhan-2004.github.io/Portfolio/)]**
 
 ---
 
