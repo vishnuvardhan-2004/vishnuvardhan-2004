@@ -1,5 +1,5 @@
-# 👋 Hello, I'm Vishnu Vardhan Gangavarapu
-**Front-End Developer | AI Enthusiast | Creative Coder**
+<img width="1022" height="479" alt="Screenshot 2025-09-23 183101" src="https://github.com/user-attachments/assets/5fa6a36d-2922-4275-ae7b-f63cbc5be5c0" /># 👋 Hello, I'm Vishnu Vardhan Gangavarapu
+**Front-End Developer|Full Stack Developer | Creative Coder**
 
 <div align="center">
 
@@ -42,8 +42,6 @@ I'm a passionate Front-End Developer currently pursuing my Bachelor's in Artific
 
 **🎨 Frontend Development**  
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-Expert-green?style=for-the-badge)
-![UI/UX Focused](https://img.shields.io/badge/UI/UX-Focused-blue?style=for-the-badge)
-![Animations](https://img.shields.io/badge/Animations-GIF/JS-yellow?style=for-the-badge)
 
 **🔧 Tools & Platforms**  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -109,7 +107,7 @@ CGPA: 7.51 • Dubagunta, Nellore(Dist)
 
 [![Email](https://img.shields.io/badge/Email-vishnuvardhangangavarapu@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:vishnuvardhangangavarapu@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishnu%20Vardhan%20Gangavarapu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishnu-vardhan-gangavarapu/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-green?style=for-the-badge)](https://vishnuvardhan-2004.github.io/Portfolio/)  
+[![Portfolio](https://vishnuvardhan-2004.github.io/Portfolio/)]  
 [![GitHub](https://img.shields.io/badge/GitHub-vishnuvardhan--2004-black?style=for-the-badge&logo=github)](https://github.com/vishnuvardhan-2004)
 
 </div>
