@@ -74,7 +74,7 @@ I'm a passionate Front-End Developer. I love building interactive and responsive
 
 **Tech Used:** HTML • CSS • JavaScript • OpenWeatherMap API  
 **Features:** Real-time weather • Glassmorphism design • Dynamic backgrounds • Responsive layout • Hover effects  
-**Link:** [View Project](https://vishnuvardhan-2004.github.io/Portfolio/)
+**Link:** [View Project]([https://vishnuvardhan-2004.github.io/Portfolio/](https://vishnuvardhan-2004.github.io/Weather-Forecast/))
 
 </div>
 
